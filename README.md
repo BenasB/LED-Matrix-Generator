@@ -1,5 +1,5 @@
 # LED Matrix Generator
-Generate graphics for LED matrices. To avoid misunderstandings, a combination of LED states (turned on/off) is called a graphic.
+Generate graphics for LED matrices. To avoid misunderstandings, a combination of LED states (turned on/off) is called a graphic. My first try at creating programs with WPF.
 
 [Download .exe](https://github.com/BenasB/LED-Matrix-Generator/raw/master/LEDMatrixGenerator.zip)
 
