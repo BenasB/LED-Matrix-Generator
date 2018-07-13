@@ -1,6 +1,8 @@
 # LED Matrix Generator
 Generate graphics for LED matrices. To avoid misunderstandings, a combination of LED states (turned on/off) is called a graphic.
 
+[Download .exe](https://github.com/BenasB/LED-Matrix-Generator/raw/master/LEDMatrixGenerator.zip)
+
 ![Screenshot](https://i.imgur.com/LponlGO.png?1)
 
 ## Features
